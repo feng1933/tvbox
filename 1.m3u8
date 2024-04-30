@@ -372,3 +372,27 @@ http://api.52tb.xyz/info?id=95&token=20230405tndmhg
 https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 #EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/南京娱乐.png",南京娱乐
 http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8?zjiangsd
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png",凤凰中文
+http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png",凤凰中文
+http://210.210.155.37/uq2663/h/h157/index2.m3u8
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png",凤凰中文
+http://210.210.155.37/uq2663/h/h157/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Phoenix_Chinese
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png",凤凰中文
+https://edge2.laotv.la/live/PhxChinese/index.m3u8
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png",凤凰中文
+http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
+http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
+https://edge2.laotv.la/live/PhoenixNews/index.m3u8
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
+http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
+http://103.95.24.37:880/fhzx.m3u8
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png",凤凰香港
+http://183.204.13.13/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png",凤凰香港
+http://113.64.145.91:8081/hls/38/index.m3u8
+#EXTINF:-1 group-title="港·澳·台" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png",凤凰香港
+http://113.64.145.61:8081/hls/38/index.m3u8
