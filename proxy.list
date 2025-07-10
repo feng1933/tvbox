@@ -1,6 +1,5 @@
-
 # 域名后缀匹配
-
+DOMAIN-SUFFIX,ipleak.net
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
