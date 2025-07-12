@@ -1,5 +1,5 @@
 # 域名后缀匹配
 
 # 国外DNS
-  - DOMAIN-SUFFIX,dns.google
-  - DOMAIN-SUFFIX,fdns.cloudflare.com
+DOMAIN-SUFFIX,dns.google/dns-query
+DOMAIN-SUFFIX,dns.cloudflare.com/dns-query
